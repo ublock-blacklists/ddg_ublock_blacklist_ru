@@ -1,3 +1,2 @@
-duckduckgo.com##a[data-testid="result-title-a"][href*="chistotnik.ru"]:upward(.nrn-react-div)
-duckduckgo.com##.tile-wrap a[href*="chistotnik.ru"]:upward(.tile)
-
+||zakipyati.ru^$all
+duckduckgo.com##.react-results--main > li:has(a[href*="zakipyati.ru"])
