@@ -12,3 +12,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="computern.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="tvcent.ru"])
 ||conan-tartar.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="conan-tartar.ru"])
+||kaksdelat.guru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="kaksdelat.guru"])
