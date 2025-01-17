@@ -1,0 +1,3 @@
+duckduckgo.com##a[data-testid="result-title-a"][href*="chistotnik.ru"]:upward(.nrn-react-div)
+duckduckgo.com##.tile-wrap a[href*="chistotnik.ru"]:upward(.tile)
+
