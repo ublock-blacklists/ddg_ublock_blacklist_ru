@@ -26,3 +26,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="linuxinsider.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="unixs.ru"])
 ||chistotnik.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="chistotnik.ru"])
+||mksegment.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="mksegment.ru"])
