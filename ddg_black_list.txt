@@ -1,2 +1,4 @@
 ||zakipyati.ru^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="zakipyati.ru"])
+||remontka.pro^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="remontka.pro"])
