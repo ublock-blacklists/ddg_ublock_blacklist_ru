@@ -38,3 +38,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="oxotnadzor.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="2shemi.ru"])
 ||muzlitra.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="muzlitra.ru"])
+||минэнергокбр.рф^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="минэнергокбр.рф"])
