@@ -34,3 +34,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="i-flashdrive.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="vdn-plus.ru"])
 ||oxotnadzor.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="oxotnadzor.ru"])
+||2shemi.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="2shemi.ru"])
