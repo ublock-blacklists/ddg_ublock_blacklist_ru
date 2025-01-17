@@ -20,3 +20,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="apogey-fm.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="prospk.ru"])
 ||gid-usadba.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="gid-usadba.ru"])
+||linuxinsider.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="linuxinsider.ru"])
