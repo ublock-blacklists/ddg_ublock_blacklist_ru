@@ -18,3 +18,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="kaksdelat.guru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="apogey-fm.ru"])
 ||prospk.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="prospk.ru"])
+||gid-usadba.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="gid-usadba.ru"])
