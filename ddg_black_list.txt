@@ -6,3 +6,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="remontka.pro"])
 duckduckgo.com##.react-results--main > li:has(a[href*="megavtogal.com"])
 ||smartadm.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="smartadm.ru"])
+||computern.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="computern.ru"])
