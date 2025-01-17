@@ -30,3 +30,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="chistotnik.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="mksegment.ru"])
 ||i-flashdrive.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="i-flashdrive.ru"])
+||vdn-plus.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="vdn-plus.ru"])
