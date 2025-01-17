@@ -8,3 +8,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="megavtogal.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="smartadm.ru"])
 ||computern.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="computern.ru"])
+||tvcent.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="tvcent.ru"])
