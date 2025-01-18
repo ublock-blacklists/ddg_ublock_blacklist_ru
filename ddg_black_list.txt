@@ -98,3 +98,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="umniimir.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="remontka.com"])
 ||eurodomik.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="eurodomik.ru"])
+||crast.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="crast.ru"])
