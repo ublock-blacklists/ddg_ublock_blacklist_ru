@@ -58,3 +58,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="panarab.org"])
 duckduckgo.com##.react-results--main > li:has(a[href*="studme.org"])
 ||fb.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="fb.ru"])
+||телемастерская.рф^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="телемастерская.рф"])
