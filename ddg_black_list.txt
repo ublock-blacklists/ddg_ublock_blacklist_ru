@@ -66,3 +66,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="m-gen.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="moyaelektronika.ru"])
 ||electroinfo.net^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="electroinfo.net"])
+||d88b.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="d88b.ru"])
