@@ -86,3 +86,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="квант-спб.рф"])
 duckduckgo.com##.react-results--main > li:has(a[href*="elektrolife.ru"])
 ||studref.com^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="studref.com"])
+||tableplus.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="tableplus.ru"])
