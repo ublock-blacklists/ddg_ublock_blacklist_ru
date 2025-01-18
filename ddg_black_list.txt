@@ -112,3 +112,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="pedtext.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="ledno.ru"])
 ||electrik.info^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="electrik.info"])
+||svetilov.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="svetilov.ru"])
