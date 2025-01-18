@@ -46,3 +46,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="studfile.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="electricschool.ru"])
 ||rc74.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="rc74.ru"])
+||lemzspb.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="lemzspb.ru"])
