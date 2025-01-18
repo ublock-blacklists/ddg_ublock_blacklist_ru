@@ -2,8 +2,6 @@
 ! Expires: 1 hour
 ||zakipyati.ru^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="zakipyati.ru"])
-||remontka.pro^$all 
-duckduckgo.com##.react-results--main > li:has(a[href*="remontka.pro"])
 ||megavtogal.com^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="megavtogal.com"])
 ||smartadm.ru^$all 
@@ -78,3 +76,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="usilitelstabo.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="profgbo.ru"])
 ||bumotors.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="bumotors.ru"])
+||shematok.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="shematok.ru"])
