@@ -54,3 +54,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="phonepress.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="seminar55.ru"])
 ||panarab.org^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="panarab.org"])
+||studme.org^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="studme.org"])
