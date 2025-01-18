@@ -1,3 +1,5 @@
+! Title: DDG_blocklist
+! Expires: 1 hour
 ||zakipyati.ru^$all
 duckduckgo.com##.react-results--main > li:has(a[href*="zakipyati.ru"])
 ||remontka.pro^$all 
@@ -70,3 +72,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="electroinfo.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="d88b.ru"])
 ||http:^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="http:"])
+||usilitelstabo.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="usilitelstabo.ru"])
