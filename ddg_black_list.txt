@@ -74,3 +74,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="d88b.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="http:"])
 ||usilitelstabo.ru^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="usilitelstabo.ru"])
+||profgbo.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="profgbo.ru"])
