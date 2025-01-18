@@ -92,3 +92,5 @@ duckduckgo.com##.react-results--main > li:has(a[href*="tableplus.ru"])
 duckduckgo.com##.react-results--main > li:has(a[href*="sdelaysam-svoimirukami.ru"])
 ||tehnoobzor.com^$all 
 duckduckgo.com##.react-results--main > li:has(a[href*="tehnoobzor.com"])
+||umniimir.ru^$all 
+duckduckgo.com##.react-results--main > li:has(a[href*="umniimir.ru"])
